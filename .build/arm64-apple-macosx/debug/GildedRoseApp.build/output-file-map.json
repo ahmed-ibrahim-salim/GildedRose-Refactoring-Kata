@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ahmedibrahim/Downloads/GildedRose-Refactoring-Kata/.build/arm64-apple-macosx/debug/GildedRoseApp.build/master.swiftdeps"
+  },
+  "/Users/ahmedibrahim/Downloads/GildedRose-Refactoring-Kata/Sources/GildedRoseApp/main.swift": {
+    "dependencies": "/Users/ahmedibrahim/Downloads/GildedRose-Refactoring-Kata/.build/arm64-apple-macosx/debug/GildedRoseApp.build/main.d",
+    "object": "/Users/ahmedibrahim/Downloads/GildedRose-Refactoring-Kata/.build/arm64-apple-macosx/debug/GildedRoseApp.build/main.swift.o",
+    "swiftmodule": "/Users/ahmedibrahim/Downloads/GildedRose-Refactoring-Kata/.build/arm64-apple-macosx/debug/GildedRoseApp.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/ahmedibrahim/Downloads/GildedRose-Refactoring-Kata/.build/arm64-apple-macosx/debug/GildedRoseApp.build/main.swiftdeps"
+  }
+}

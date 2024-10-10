@@ -1,0 +1,4 @@
+module GildedRose {
+    header "/Users/ahmedibrahim/Downloads/GildedRose-Refactoring-Kata/.build/arm64-apple-macosx/debug/GildedRose.build/GildedRose-Swift.h"
+    requires objc
+}

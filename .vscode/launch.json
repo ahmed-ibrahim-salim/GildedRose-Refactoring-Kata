@@ -1,0 +1,22 @@
+{
+	"configurations": [
+		{
+			"type": "lldb",
+			"request": "launch",
+			"args": [],
+			"cwd": "${workspaceFolder:GildedRose-Refactoring-Kata}",
+			"name": "Debug GildedRoseApp",
+			"program": "${workspaceFolder:GildedRose-Refactoring-Kata}/.build/debug/GildedRoseApp",
+			"preLaunchTask": "swift: Build Debug GildedRoseApp"
+		},
+		{
+			"type": "lldb",
+			"request": "launch",
+			"args": [],
+			"cwd": "${workspaceFolder:GildedRose-Refactoring-Kata}",
+			"name": "Release GildedRoseApp",
+			"program": "${workspaceFolder:GildedRose-Refactoring-Kata}/.build/release/GildedRoseApp",
+			"preLaunchTask": "swift: Build Release GildedRoseApp"
+		}
+	]
+}
