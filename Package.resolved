@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ApprovalTests.Swift",
+        "repositoryURL": "https://github.com/approvals/ApprovalTests.Swift",
+        "state": {
+          "branch": "master",
+          "revision": "cf1fed8aad47dd2b50e88fc975337c7f2f7a144d",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

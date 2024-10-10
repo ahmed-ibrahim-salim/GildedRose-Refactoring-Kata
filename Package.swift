@@ -10,6 +10,12 @@ let package = Package(
             targets: ["GildedRose"]
         ),
     ],
+    dependencies: [
+        .package(
+            url: "https://github.com/approvals/ApprovalTests.Swift",
+            branch: "master"
+        ),
+    ],
     targets: [
         .target(
             name: "GildedRose",
@@ -21,7 +27,7 @@ let package = Package(
         ),
         .testTarget(
             name: "GildedRoseTests",
-            dependencies: ["GildedRose"]
+            dependencies: ["GildedRose", "ApprovalTests.Swift"]
         ),
     ]
 )
