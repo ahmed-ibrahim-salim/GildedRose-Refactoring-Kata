@@ -1,1 +1,24 @@
-foo
+["new name", -1, 1] -> GildedRose.GildedRose
+["new name", -1, 2] -> GildedRose.GildedRose
+["new name", 0, 1] -> GildedRose.GildedRose
+["new name", 0, 2] -> GildedRose.GildedRose
+["new name", 1, 1] -> GildedRose.GildedRose
+["new name", 1, 2] -> GildedRose.GildedRose
+["Aged Brie", -1, 1] -> GildedRose.GildedRose
+["Aged Brie", -1, 2] -> GildedRose.GildedRose
+["Aged Brie", 0, 1] -> GildedRose.GildedRose
+["Aged Brie", 0, 2] -> GildedRose.GildedRose
+["Aged Brie", 1, 1] -> GildedRose.GildedRose
+["Aged Brie", 1, 2] -> GildedRose.GildedRose
+["Backstage passes to a TAFKAL80ETC concert", -1, 1] -> GildedRose.GildedRose
+["Backstage passes to a TAFKAL80ETC concert", -1, 2] -> GildedRose.GildedRose
+["Backstage passes to a TAFKAL80ETC concert", 0, 1] -> GildedRose.GildedRose
+["Backstage passes to a TAFKAL80ETC concert", 0, 2] -> GildedRose.GildedRose
+["Backstage passes to a TAFKAL80ETC concert", 1, 1] -> GildedRose.GildedRose
+["Backstage passes to a TAFKAL80ETC concert", 1, 2] -> GildedRose.GildedRose
+["Sulfuras, Hand of Ragnaros", -1, 1] -> GildedRose.GildedRose
+["Sulfuras, Hand of Ragnaros", -1, 2] -> GildedRose.GildedRose
+["Sulfuras, Hand of Ragnaros", 0, 1] -> GildedRose.GildedRose
+["Sulfuras, Hand of Ragnaros", 0, 2] -> GildedRose.GildedRose
+["Sulfuras, Hand of Ragnaros", 1, 1] -> GildedRose.GildedRose
+["Sulfuras, Hand of Ragnaros", 1, 2] -> GildedRose.GildedRose

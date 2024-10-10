@@ -4,9 +4,24 @@ import XCTest
 
 class GildedRoseTests: XCTestCase {
     func testFoo() throws {
-        let items = [Item(name: "foo", sellIn: 0, quality: 0)]
+        // try Approvals.verify(app.items[0].name)
+        let names = ["new name", "Aged Brie",
+                     "Backstage passes to a TAFKAL80ETC concert",
+                     "Sulfuras, Hand of Ragnaros"]
+        let sellIns = [-1, 0, 1]
+        let qualities = [1, 2]
+
+        try CombinationApprovals.verifyAllCombinations(makeGildedRose, names, sellIns, qualities)
+    }
+}
+
+// MARK: Helpers
+
+extension GildedRoseTests {
+    func makeGildedRose(name: String, sellIn: Int, quality: Int) -> GildedRose {
+        let items = [Item(name: name, sellIn: sellIn, quality: quality)]
         let app = GildedRose(items: items)
         app.updateQuality()
-        try Approvals.verify(app.items[0].name)
+        return app
     }
 }
