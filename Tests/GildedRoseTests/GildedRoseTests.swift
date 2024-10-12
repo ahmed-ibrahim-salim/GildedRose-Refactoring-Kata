@@ -4,7 +4,7 @@ import XCTest
 
 class GildedRoseTests: XCTestCase {
     func testFoo() throws {
-        let names = ["Aged Brie",
+        let names = ["Foo", "Aged Brie",
                      "Backstage passes to a TAFKAL80ETC concert",
                      "Sulfuras, Hand of Ragnaros"]
         let sellIns = [-1, 0, 2, 6, 11]
