@@ -7,67 +7,7 @@ public class GildedRose {
 
     public func updateQuality() {
         for i in 0 ..< items.count {
-            let item = items[i]
-            updateQualityFor(item)
-        }
-    }
-
-    func updateQualityFor(_ item: Item) {
-        switch item.name {
-        case "Aged Brie":
-            if item.quality < 50 {
-                item.quality = item.quality + 1
-            }
-
-            item.sellIn = item.sellIn - 1
-
-            if item.sellIn < 0 {
-                if item.quality < 50 {
-                    item.quality = item.quality + 1
-                }
-            }
-        case "Backstage passes to a TAFKAL80ETC concert":
-            if item.quality < 50 {
-                item.quality = item.quality + 1
-
-                if item.sellIn < 11 {
-                    if item.quality < 50 {
-                        item.quality = item.quality + 1
-                    }
-                }
-
-                if item.sellIn < 6 {
-                    if item.quality < 50 {
-                        item.quality = item.quality + 1
-                    }
-                }
-            }
-
-            item.sellIn = item.sellIn - 1
-
-            if item.sellIn < 0 {
-                item.quality = 0
-            }
-        case "Sulfuras, Hand of Ragnaros":
-            break
-        default:
-            if item.quality > 0 {
-                if item.name != "Sulfuras, Hand of Ragnaros" {
-                    item.quality = item.quality - 1
-                }
-            }
-
-            if item.name != "Sulfuras, Hand of Ragnaros" {
-                item.sellIn = item.sellIn - 1
-            }
-
-            if item.sellIn < 0 {
-                if item.quality > 0 {
-                    if item.name != "Sulfuras, Hand of Ragnaros" {
-                        item.quality = item.quality - 1
-                    }
-                }
-            }
+            items[i].updateQuality()
         }
     }
 }

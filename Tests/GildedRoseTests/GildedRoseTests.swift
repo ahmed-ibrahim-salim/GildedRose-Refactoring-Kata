@@ -18,7 +18,7 @@ class GildedRoseTests: XCTestCase {
 
 extension GildedRoseTests {
     func makeGildedRose(name: String, sellIn: Int, quality: Int) -> GildedRose {
-        let items = [Item(name: name, sellIn: sellIn, quality: quality)]
+        let items = [Item.makeItem(name, sellIn, quality)]
         let app = GildedRose(items: items)
         app.updateQuality()
         return app
