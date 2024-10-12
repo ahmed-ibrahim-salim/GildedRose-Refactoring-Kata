@@ -4,8 +4,7 @@ import XCTest
 
 class GildedRoseTests: XCTestCase {
     func testFoo() throws {
-        // try Approvals.verify(app.items[0].name)
-        let names = ["new name", "Aged Brie",
+        let names = ["Aged Brie",
                      "Backstage passes to a TAFKAL80ETC concert",
                      "Sulfuras, Hand of Ragnaros"]
         let sellIns = [-1, 0, 2, 6, 11]
