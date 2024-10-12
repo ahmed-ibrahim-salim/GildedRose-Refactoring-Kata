@@ -8,11 +8,11 @@ public class GildedRose {
     public func updateQuality() {
         for i in 0 ..< items.count {
             let item = items[i]
-            appleSauce(item)
+            updateQualityFor(item)
         }
     }
 
-    func appleSauce(_ item: Item) {
+    func updateQualityFor(_ item: Item) {
         switch item.name {
         case "Aged Brie":
             if item.quality < 50 {
