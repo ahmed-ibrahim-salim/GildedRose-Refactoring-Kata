@@ -8,8 +8,8 @@ class GildedRoseTests: XCTestCase {
         let names = ["new name", "Aged Brie",
                      "Backstage passes to a TAFKAL80ETC concert",
                      "Sulfuras, Hand of Ragnaros"]
-        let sellIns = [-1, 0, 1]
-        let qualities = [1, 2]
+        let sellIns = [-1, 0, 2, 6, 11]
+        let qualities = [0, 1, 49, 50]
 
         try CombinationApprovals.verifyAllCombinations(makeGildedRose, names, sellIns, qualities)
     }

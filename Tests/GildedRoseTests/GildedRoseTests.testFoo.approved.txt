@@ -1,24 +1,80 @@
+["new name", -1, 0] -> GildedRose.GildedRose
 ["new name", -1, 1] -> GildedRose.GildedRose
-["new name", -1, 2] -> GildedRose.GildedRose
+["new name", -1, 49] -> GildedRose.GildedRose
+["new name", -1, 50] -> GildedRose.GildedRose
+["new name", 0, 0] -> GildedRose.GildedRose
 ["new name", 0, 1] -> GildedRose.GildedRose
-["new name", 0, 2] -> GildedRose.GildedRose
-["new name", 1, 1] -> GildedRose.GildedRose
-["new name", 1, 2] -> GildedRose.GildedRose
+["new name", 0, 49] -> GildedRose.GildedRose
+["new name", 0, 50] -> GildedRose.GildedRose
+["new name", 2, 0] -> GildedRose.GildedRose
+["new name", 2, 1] -> GildedRose.GildedRose
+["new name", 2, 49] -> GildedRose.GildedRose
+["new name", 2, 50] -> GildedRose.GildedRose
+["new name", 6, 0] -> GildedRose.GildedRose
+["new name", 6, 1] -> GildedRose.GildedRose
+["new name", 6, 49] -> GildedRose.GildedRose
+["new name", 6, 50] -> GildedRose.GildedRose
+["new name", 11, 0] -> GildedRose.GildedRose
+["new name", 11, 1] -> GildedRose.GildedRose
+["new name", 11, 49] -> GildedRose.GildedRose
+["new name", 11, 50] -> GildedRose.GildedRose
+["Aged Brie", -1, 0] -> GildedRose.GildedRose
 ["Aged Brie", -1, 1] -> GildedRose.GildedRose
-["Aged Brie", -1, 2] -> GildedRose.GildedRose
+["Aged Brie", -1, 49] -> GildedRose.GildedRose
+["Aged Brie", -1, 50] -> GildedRose.GildedRose
+["Aged Brie", 0, 0] -> GildedRose.GildedRose
 ["Aged Brie", 0, 1] -> GildedRose.GildedRose
-["Aged Brie", 0, 2] -> GildedRose.GildedRose
-["Aged Brie", 1, 1] -> GildedRose.GildedRose
-["Aged Brie", 1, 2] -> GildedRose.GildedRose
+["Aged Brie", 0, 49] -> GildedRose.GildedRose
+["Aged Brie", 0, 50] -> GildedRose.GildedRose
+["Aged Brie", 2, 0] -> GildedRose.GildedRose
+["Aged Brie", 2, 1] -> GildedRose.GildedRose
+["Aged Brie", 2, 49] -> GildedRose.GildedRose
+["Aged Brie", 2, 50] -> GildedRose.GildedRose
+["Aged Brie", 6, 0] -> GildedRose.GildedRose
+["Aged Brie", 6, 1] -> GildedRose.GildedRose
+["Aged Brie", 6, 49] -> GildedRose.GildedRose
+["Aged Brie", 6, 50] -> GildedRose.GildedRose
+["Aged Brie", 11, 0] -> GildedRose.GildedRose
+["Aged Brie", 11, 1] -> GildedRose.GildedRose
+["Aged Brie", 11, 49] -> GildedRose.GildedRose
+["Aged Brie", 11, 50] -> GildedRose.GildedRose
+["Backstage passes to a TAFKAL80ETC concert", -1, 0] -> GildedRose.GildedRose
 ["Backstage passes to a TAFKAL80ETC concert", -1, 1] -> GildedRose.GildedRose
-["Backstage passes to a TAFKAL80ETC concert", -1, 2] -> GildedRose.GildedRose
+["Backstage passes to a TAFKAL80ETC concert", -1, 49] -> GildedRose.GildedRose
+["Backstage passes to a TAFKAL80ETC concert", -1, 50] -> GildedRose.GildedRose
+["Backstage passes to a TAFKAL80ETC concert", 0, 0] -> GildedRose.GildedRose
 ["Backstage passes to a TAFKAL80ETC concert", 0, 1] -> GildedRose.GildedRose
-["Backstage passes to a TAFKAL80ETC concert", 0, 2] -> GildedRose.GildedRose
-["Backstage passes to a TAFKAL80ETC concert", 1, 1] -> GildedRose.GildedRose
-["Backstage passes to a TAFKAL80ETC concert", 1, 2] -> GildedRose.GildedRose
+["Backstage passes to a TAFKAL80ETC concert", 0, 49] -> GildedRose.GildedRose
+["Backstage passes to a TAFKAL80ETC concert", 0, 50] -> GildedRose.GildedRose
+["Backstage passes to a TAFKAL80ETC concert", 2, 0] -> GildedRose.GildedRose
+["Backstage passes to a TAFKAL80ETC concert", 2, 1] -> GildedRose.GildedRose
+["Backstage passes to a TAFKAL80ETC concert", 2, 49] -> GildedRose.GildedRose
+["Backstage passes to a TAFKAL80ETC concert", 2, 50] -> GildedRose.GildedRose
+["Backstage passes to a TAFKAL80ETC concert", 6, 0] -> GildedRose.GildedRose
+["Backstage passes to a TAFKAL80ETC concert", 6, 1] -> GildedRose.GildedRose
+["Backstage passes to a TAFKAL80ETC concert", 6, 49] -> GildedRose.GildedRose
+["Backstage passes to a TAFKAL80ETC concert", 6, 50] -> GildedRose.GildedRose
+["Backstage passes to a TAFKAL80ETC concert", 11, 0] -> GildedRose.GildedRose
+["Backstage passes to a TAFKAL80ETC concert", 11, 1] -> GildedRose.GildedRose
+["Backstage passes to a TAFKAL80ETC concert", 11, 49] -> GildedRose.GildedRose
+["Backstage passes to a TAFKAL80ETC concert", 11, 50] -> GildedRose.GildedRose
+["Sulfuras, Hand of Ragnaros", -1, 0] -> GildedRose.GildedRose
 ["Sulfuras, Hand of Ragnaros", -1, 1] -> GildedRose.GildedRose
-["Sulfuras, Hand of Ragnaros", -1, 2] -> GildedRose.GildedRose
+["Sulfuras, Hand of Ragnaros", -1, 49] -> GildedRose.GildedRose
+["Sulfuras, Hand of Ragnaros", -1, 50] -> GildedRose.GildedRose
+["Sulfuras, Hand of Ragnaros", 0, 0] -> GildedRose.GildedRose
 ["Sulfuras, Hand of Ragnaros", 0, 1] -> GildedRose.GildedRose
-["Sulfuras, Hand of Ragnaros", 0, 2] -> GildedRose.GildedRose
-["Sulfuras, Hand of Ragnaros", 1, 1] -> GildedRose.GildedRose
-["Sulfuras, Hand of Ragnaros", 1, 2] -> GildedRose.GildedRose
+["Sulfuras, Hand of Ragnaros", 0, 49] -> GildedRose.GildedRose
+["Sulfuras, Hand of Ragnaros", 0, 50] -> GildedRose.GildedRose
+["Sulfuras, Hand of Ragnaros", 2, 0] -> GildedRose.GildedRose
+["Sulfuras, Hand of Ragnaros", 2, 1] -> GildedRose.GildedRose
+["Sulfuras, Hand of Ragnaros", 2, 49] -> GildedRose.GildedRose
+["Sulfuras, Hand of Ragnaros", 2, 50] -> GildedRose.GildedRose
+["Sulfuras, Hand of Ragnaros", 6, 0] -> GildedRose.GildedRose
+["Sulfuras, Hand of Ragnaros", 6, 1] -> GildedRose.GildedRose
+["Sulfuras, Hand of Ragnaros", 6, 49] -> GildedRose.GildedRose
+["Sulfuras, Hand of Ragnaros", 6, 50] -> GildedRose.GildedRose
+["Sulfuras, Hand of Ragnaros", 11, 0] -> GildedRose.GildedRose
+["Sulfuras, Hand of Ragnaros", 11, 1] -> GildedRose.GildedRose
+["Sulfuras, Hand of Ragnaros", 11, 49] -> GildedRose.GildedRose
+["Sulfuras, Hand of Ragnaros", 11, 50] -> GildedRose.GildedRose
